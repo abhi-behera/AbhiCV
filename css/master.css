@@ -10,6 +10,16 @@ div{
     padding-left: 40px;
 }
 
+h1{
+
+  font-size: 50px;
+  font-family:  'Merriweather', sans-serif;
+}
+
+h2{
+  font-family: Lora;
+}
+
 hr{
   border-color: #C9D8B6;
   border-style: none;
@@ -21,12 +31,64 @@ em{
   border-bottom-style: solid;
 }
 .a{
-  position: relative;
-    left: 200px ;
+  position:   relative;
+    left: 50px ;
     width: 40%;
     text-align: center;
   border-style: groove none ;
   border-width: thick;
   padding-right: 10px;
   width: 20%;
+}
+
+.c{
+  position: relative;
+    left: 50px ;
+    width: 40%;
+    text-align: center;
+
+  padding-right: 10px;
+  width: 20%;
+}
+
+.fotter{
+
+  text-align:  center;
+  padding:  40px auto 140px;
+  background-color: #dedede;
+}
+
+.ftr{
+  font-size: 15px;
+  font-family:  cursive;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.header{
+  margin: 0px;
+  background-color: #eeee;
+  padding-bottom: 20px;
+
+}
+
+.skill{
+
+  padding-top: 20px;
+}
+#abt{
+  padding: 100px auto 300px auto;
+  margin: 0px 20px 80px;
+
+
+}
+
+#fb{
+  margin: 40px 20px 80px;
+
+}
+
+#linkd{
+  margin: 40px 20px 80px;
+
 }
